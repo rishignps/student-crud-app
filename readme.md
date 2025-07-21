@@ -19,14 +19,6 @@ A fully functional **Student Management System** built with **Spring Boot**, fea
 - Toast notifications on all actions
 - H2 in-memory DB (easy to switch to PostgreSQL or MySQL)
 
----
-
-## 🖼️ Preview
-
-> Add screenshots here later (optional)
-
----
-
 ## ⚙️ Tech Stack
 
 | Layer            | Technology                  |
